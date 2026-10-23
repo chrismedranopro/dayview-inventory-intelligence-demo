@@ -1,0 +1,6 @@
+description,supplier_sku,barcode,quantity_packs,pack_size,pack_cost_gbp,vat_rate,line_total_gbp
+Basmati Rice 5kg,,,3,1,8.90,0,26.70
+Whole Milk 2L,BW-MILK-2L-6,,2,6,7.80,0,15.60
+New Imported Sauce 500ml,NEW-SAUCE-500,,4,1,2.10,0,8.40
+Sunbeam Baked Beans 400g,SB-BEANS-400-24,,2,24,15.60,0,31.20
+Black Tea Bags 80s,,,5,1,1.29,0,6.45
